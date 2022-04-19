@@ -18,4 +18,4 @@ types-uno-script `PyPi <https://pypi.org/project/types-uno-script/>`_
     $ pip install types-uno-script
 
 
-For LibreOffice API typings see `LibreOffice API Typings <https://github.com/Amourspirit/python-types-unopy>`_
+For LibreOffice `API <https://api.libreoffice.org/>`_ typings see `LibreOffice API Typings <https://github.com/Amourspirit/python-types-unopy>`_
