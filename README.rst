@@ -11,10 +11,11 @@ Installation
 PIP
 ---
 
-types-uno-script [PyPi](https://pypi.org/project/types-uno-script/)
+types-uno-script `PyPi <https://pypi.org/project/types-uno-script/>`_
 
-```
-$ pip install types-uno-script
-```
+.. code-block:: bash
 
-For LibreOffice API typings see [LibreOffice API Typings](https://github.com/Amourspirit/python-types-unopy)
+    $ pip install types-uno-script
+
+
+For LibreOffice `API <https://api.libreoffice.org/>`_ typings see `LibreOffice API Typings <https://github.com/Amourspirit/python-types-unopy>`_
