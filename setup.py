@@ -3,7 +3,7 @@ import pathlib
 from setuptools import setup
 # from scriptforge_stubs import __version__
 PKG_NAME = 'types-uno-script'
-VERSION = "0.1.0"
+VERSION = "0.1.1"
 
 # The directory containing this file
 HERE = pathlib.Path(__file__).parent
